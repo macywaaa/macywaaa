@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=macywaaa&label=Profile%20views&color=0e75b6&style=flat" alt="macywaaa" /> </p>
 
-- 🔭 I’m currently working on my **Personal Web Showcase**
-
 - 🌱 Exploring **Web Development**
 
 - 📫 How to reach me **macyj.temblique@gmail.com**
